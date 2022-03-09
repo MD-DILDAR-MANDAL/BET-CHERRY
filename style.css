@@ -1,7 +1,7 @@
 #bet-title{
     text-align:center;
     background:linear-gradient(to top,rgb(30,240,40),rgba(30,240,40,0.1));
-    font-family: "Bokor", cursive;
+    font-family:"Abril Fatface", cursive;
     padding: 10px 15px;
     margin-top:0;
     margin-left:0;
@@ -27,11 +27,11 @@ h1{
 h2{
     font-weight:bold;
     font-size:40px;
-font-family: "Bokor", cursive;
+font-family: "Black Ops One", cursive;
     }
 h3{
     font-weight:bold;
-    font-family: "Lora", serif;
+    font-family: "Black Ops One", cursive;
     background-color:rgb(214,24,102);
     padding:6px 10px;
     border:2px solid rgb(245,222,47);
