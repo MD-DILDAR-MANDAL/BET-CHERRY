@@ -89,10 +89,11 @@ input{
         flex-direction:column;
         align-items:center;
         border:5px double rgb(245,222,47);
+
         }
 .bgmi-img{
-    height:200px;
-    width:600px;
+    height:300px;
+    width:700px;
     padding:9px;
     border: 3px dotted rgb(255,17,238);
     }
